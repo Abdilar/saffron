@@ -1,2 +1,2 @@
 # Saffron
-The saffron is a css framework
+The saffron is a CSS framework
