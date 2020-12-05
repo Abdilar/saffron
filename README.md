@@ -1,2 +1,2 @@
-# sakit
-SAKit is a css framework
+# Saffron
+The saffron is a css framework
